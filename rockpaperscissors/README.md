@@ -1,3 +1,3 @@
-# Python Projects
+# Rock Paper Scissors in Python
 
-This repository contains all of the Python projects that I have been working on
+This folder contains a working Rock, Paper, Scissors game built in the Python language
